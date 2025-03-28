@@ -26,7 +26,6 @@ for (const source of sourceFiles) {
 
         for (const key in importedLocaleData) {
             const formattedKey = formatKey(source, key);
-            console.log(formattedKey);
 
             if (!languageData[formattedKey]) continue;
 
