@@ -21,6 +21,7 @@
     "scheduling.alerts.meta.Capture_a_Code_Alt_Name": "Capture a Code: {[event_theme]}",
     "scheduling.alerts.meta.Capture_a_Code_Subtitle": "Capture a Code",
     "scheduling.alerts.meta.Community_Weekend_Alt_Name": "Community Weekend: Season {[season_number]}",
+    "scheduling.alerts.meta.Community_Weekend_Main_Name": "Season {[season_number]} Community Weekend",
     "scheduling.alerts.meta.Community_Weekend_Subtitle": "Season {[season_number]}",
     "scheduling.alerts.meta.Gold_Rush_Alt_Name": "Daily Gold Rush Cycle",
     "scheduling.alerts.meta.Gold_Rush_Main_Name": "Gold Rush",
