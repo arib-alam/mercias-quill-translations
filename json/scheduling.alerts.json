@@ -89,6 +89,9 @@
         "en-GB": "Community Weekend: Season {[season_number]}",
         "ko": "커뮤니티 주말: 시즌 {[season_number]}"
     },
+    "meta.Community_Weekend_Main_Name": {
+        "en-GB": "Season {[season_number]} Community Weekend"
+    },
     "meta.Community_Weekend_Subtitle": {
         "en-GB": "Season {[season_number]}",
         "ko": "시즌 {[season_number]}"
