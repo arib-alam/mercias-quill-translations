@@ -21,6 +21,7 @@
     "scheduling.alerts.meta.Capture_a_Code_Alt_Name": "캡쳐 코드: {[event_theme]}",
     "scheduling.alerts.meta.Capture_a_Code_Subtitle": "캡쳐 코드",
     "scheduling.alerts.meta.Community_Weekend_Alt_Name": "커뮤니티 주말: 시즌 {[season_number]}",
+    "scheduling.alerts.meta.Community_Weekend_Main_Name": "Season {[season_number]} Community Weekend",
     "scheduling.alerts.meta.Community_Weekend_Subtitle": "시즌 {[season_number]}",
     "scheduling.alerts.meta.Gold_Rush_Alt_Name": "일일 골드 러시 주기",
     "scheduling.alerts.meta.Gold_Rush_Main_Name": "골드 러시",
