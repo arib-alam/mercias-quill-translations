@@ -1,4 +1,10 @@
 {
+    "components.Change_Week_Button": {
+        "en-GB": "Change Week"
+    },
+    "components.Completed_Button": {
+        "en-GB": "Completed"
+    },
     "components.Details_and_Connections_Button": {
         "en-GB": "Details & Connections",
         "ko": "세부 사항 & 연결"
@@ -18,6 +24,9 @@
     "components.Forum_Thread_Button": {
         "en-GB": "Forum Thread",
         "ko": "포럼 스레드"
+    },
+    "components.History_Button": {
+        "en-GB": "History"
     },
     "components.Theme_Announcement_Button": {
         "en-GB": "Theme Announcement",
@@ -176,6 +185,15 @@
     "short.Host_Text": {
         "en-GB": "Host",
         "ko": "주최자"
+    },
+    "short.Insider_Estimated_Finish": {
+        "en-GB": "Estimated Finish"
+    },
+    "short.Insider_Refreshes": {
+        "en-GB": "Refreshes"
+    },
+    "short.Insider_Upcoming_Week": {
+        "en-GB": "Upcoming Week {{week}}"
     },
     "short.Official_Twitch_Drop_Host": {
         "en-GB": "the Official Sea of Thieves Channel",
