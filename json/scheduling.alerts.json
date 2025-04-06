@@ -62,6 +62,9 @@
         "en-GB": "Call your crew and throw a Voyage on the table — a new Gold & Glory Weekend is now live! You'll gain boosted reputation, gold, renown, and allegiance for all your high-sea hijinks!",
         "ko": "크루를 불러서 항해를 테이블 위에 올려놓으세요. - 새로운 골드 & 글로리 주말이 시작되었습니다! 모든 멀티플레이어 해역에서 골드, 평판, 명성, 충성도가 증가합니다!"
     },
+    "content.Insider_Rewards_Reminder_Description": {
+        "en-GB": "The current Insider week ends <t:{[end_timestamp_s]}:R>! Make sure to earn enough reputation before <t:{[end_timestamp_s]}:F>."
+    },
     "content.Partner_Cosmetic_Main_Description": {
         "en-GB": "{[partner_name]} is hosting a {[availability_name]} for the exclusive {[reward_items]}! You can view more details by checking out their [channel]({[partner_page]}).",
         "ko": "{[partner_name]}이(가) 독점 **{[reward_items]}**에 대한 {[availability_name]}을(를) 주최하고 있습니다! 더 많은 세부 사항은 해당 [채널]({[partner_page]})에서 확인할 수 있습니다."
@@ -78,9 +81,11 @@
         "en-GB": "Ends",
         "ko": "종료일"
     },
-    "globals.Powered_by_Footer": {
-        "en-GB": "Powered by Mercia's Quill",
-        "ko": "Mercia's Quill에 의해 제공됨"
+    "globals.Event_Powered_by_Footer": {
+        "en-GB": "{{logo}} Powered by Mercia's Quill"
+    },
+    "globals.Main_Powered_by_Footer": {
+        "en-GB": "Powered by Mercia's Quill"
     },
     "globals.View_Rewards_Button": {
         "en-GB": "View Rewards",
@@ -99,7 +104,8 @@
         "ko": "커뮤니티 주말: 시즌 {[season_number]}"
     },
     "meta.Community_Weekend_Main_Name": {
-        "en-GB": "Season {[season_number]} Community Weekend"
+        "en-GB": "Season {[season_number]} Community Weekend",
+        "ko": "시즌 {[season_number]} 커뮤니티 주말"
     },
     "meta.Community_Weekend_Subtitle": {
         "en-GB": "Season {[season_number]}",
