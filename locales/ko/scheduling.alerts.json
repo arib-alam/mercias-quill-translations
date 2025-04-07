@@ -20,7 +20,7 @@
     "scheduling.alerts.content.Regular_Twitch_Drop_Main_Description": "[{[availability_name]}]({[availability_link]})을(를) 시청하고 **{[rewards_count]} 시간** 동안 추가로 시청하여 모든 드롭스를 획득하세요! Twitch 계정을 Sea of Thieves에 연결하고 드롭스가 잠금 해제되면 수령하는 것을 잊지 마세요!",
     "scheduling.alerts.content.Special_Twitch_Drops_Main_Description": "[{[availability_name]}]({[availability_link]})을(를) 시청하고 **{[rewards_count]}**개의 새로운 드롭스 아이템을 획득하세요! Twitch 계정을 Sea of Thieves에 연결하고 드롭스가 잠금 해제되면 수령하는 것을 잊지 마세요!",
     "scheduling.alerts.globals.Ends_Text": "종료일",
-    "scheduling.alerts.globals.Event_Powered_by_Footer": "{{logo}} Powered by Mercia's Quill",
+    "scheduling.alerts.globals.Event_Powered_by_Footer": "{{logo}} Mercia's Quill 제공 / :flag_kr: yeon_en 번역",
     "scheduling.alerts.globals.Main_Powered_by_Footer": "Powered by Mercia's Quill",
     "scheduling.alerts.globals.View_Rewards_Button": "보상 확인",
     "scheduling.alerts.meta.Capture_a_Code_Alt_Name": "캡쳐 코드: {[event_theme]}",
