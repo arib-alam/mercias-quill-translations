@@ -1,10 +1,10 @@
 {
-    "name": "mercias-quill-translations",
-    "version": "1.0.0",
-    "scripts": {
-        "sort": "node sort.mjs",
-        "sync": "node sync.mjs",
-        "prettier": "prettier --write \"./**/*.{js,json}\"",
-        "update": "npm run sort && npm run sync && npm run prettier"
-    }
+  "name": "mercias-quill-translations",
+  "version": "1.0.0",
+  "scripts": {
+    "sort": "node sort.mjs",
+    "sync": "node sync.mjs",
+    "prettier": "prettier --write \"./**/*.{js,json}\"",
+    "update": "npm run sort && npm run sync && npm run prettier"
+  }
 }
