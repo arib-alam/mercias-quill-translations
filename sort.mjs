@@ -12,5 +12,5 @@ for (const source of sourceFiles) {
   const keys = Object.keys(importedData).sort();
   for (const key of keys) sortedData[key] = importedData[key];
 
-  writeFileSync(`./sources/${source}`, JSON.stringify(sortedData, null, 4));
+  writeFileSync(`./sources/${source}`, JSON.stringify(sortedData, null, 2));
 }
