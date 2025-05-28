@@ -1,9 +1,9 @@
 {
-  "content.Community_Event_Reminder_Description": "The current **Community Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[sot_article_url]}) before <t:{[end_timestamp_s]}:f>.",
+  "content.Community_Event_Reminder_Description": "A atual **Campanha do Evento da Comunidade** termina <t:{[end_timestamp_s]}:R>! Faça o login e conclua todos os [deeds]({[sot_article_url]}) antes de <t:{[end_timestamp_s]}:f>.",
   "content.Miscellaneous_Event_Reminder_Description": "The current **Game Event campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to login and complete all [deeds]({[details_link]}) before <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.components.Change_Week_Button": "Change Week",
   "scheduling.alerts.components.Completed_Button": "Completed",
-  "scheduling.alerts.components.Details_and_Connections_Button": "Details & Connections",
+  "scheduling.alerts.components.Details_and_Connections_Button": "Detalhes e Conexões",
   "scheduling.alerts.components.Details_and_Entries_Button": "Details & Entries",
   "scheduling.alerts.components.Details_and_Info_Button": "Details & Information",
   "scheduling.alerts.components.Details_and_Tips_Button": "Details & Tips",
@@ -23,10 +23,10 @@
   "scheduling.alerts.content.Regular_Twitch_Drop_Reminder_Description": "The current **Twitch Drops campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to [claim]({[twitch_inventory_url]}) your drops before <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.content.Special_Twitch_Drop_Reminder_Description": "The current **Twitch Drops campaign** ends <t:{[end_timestamp_s]}:R>! Make sure to [claim]({[twitch_inventory_url]}) your drops before <t:{[end_timestamp_s]}:f>.",
   "scheduling.alerts.content.Special_Twitch_Drops_Main_Description": "Tune in and watch [{[availability_name]}]({[availability_link]}) for a total of **{[rewards_total_time]}** to earn all drops! Remember to link your Twitch account to Sea of Thieves and claim your drop once it's unlocked!",
-  "scheduling.alerts.globals.Ends_Text": "Ends",
+  "scheduling.alerts.globals.Ends_Text": "Termina em",
   "scheduling.alerts.globals.Event_Powered_by_Footer": "{[logo_emoji]} Powered by Mercia's Quill",
-  "scheduling.alerts.globals.Main_Powered_by_Footer": "Powered by Mercia's Quill",
-  "scheduling.alerts.globals.View_Rewards_Button": "View Rewards",
+  "scheduling.alerts.globals.Main_Powered_by_Footer": "Fornecido por Mercia's Quilll",
+  "scheduling.alerts.globals.View_Rewards_Button": "Ver Recompensas",
   "scheduling.alerts.meta.Capture_a_Code_Alt_Name": "Capture a Code: {[event_theme]}",
   "scheduling.alerts.meta.Capture_a_Code_Subtitle": "Capture a Code",
   "scheduling.alerts.meta.Community_Weekend_Alt_Name": "Community Weekend: Season {[season_number]}",
@@ -57,10 +57,10 @@
   "scheduling.alerts.short.Insider_Refreshes": "Refreshes",
   "scheduling.alerts.short.Insider_Upcoming_Week": "Upcoming Week {{week}}",
   "scheduling.alerts.short.Official_Twitch_Drop_Host": "the Official Sea of Thieves Channel",
-  "scheduling.alerts.short.Partner_Twitch_Drop_Host": "any Sea of Thieves Partner",
+  "scheduling.alerts.short.Partner_Twitch_Drop_Host": "qualquer Parceiro do Sea of Thieves",
   "scheduling.alerts.short.PvP_Competition_Availability": "PvP competition",
   "scheduling.alerts.short.Riddle_Competition_Availability": "riddle competition",
   "scheduling.alerts.short.Screenshot_Competition_Availability": "screenshot competition",
   "scheduling.alerts.short.Time_Conjunction": " and ",
-  "scheduling.alerts.short.Twitch_Inventory_Text": "Twitch Drops Inventory"
+  "scheduling.alerts.short.Twitch_Inventory_Text": "Inventário da Twitch Drops"
 }
