@@ -45,7 +45,8 @@ for (const locale of localeFolders) {
 
     for (const key in importedData) {
       if (!languageData[key]) {
-        throw Error(`Key ${key} missing from languageData`);
+        console.error(`Key ${key} missing from languageData`);
+        continue;
       }
 
       if (importedData[key] === languageData[key]["en-GB"]) {
